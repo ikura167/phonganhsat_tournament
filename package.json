@@ -1,6 +1,6 @@
 {
   "name": "assassin's-league---pvp-tournament",
-  "private": true,
+  "private": false,
   "homepage": "https://ikura167.github.io/phonganhsat_tournament/",
   "version": "0.0.0",
   "type": "module",
