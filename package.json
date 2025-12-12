@@ -1,7 +1,6 @@
 {
-  "name": "assassin's-league---pvp-tournament",
-  "private": false,
-  "homepage": "https://ikura167.github.io/phonganhsat_tournament/",
+  "name": "phonganhsat_tournament",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -12,7 +11,6 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "gh-pages": "^6.3.0",
     "lucide-react": "^0.556.0",
     "react": "^19.2.1",
     "react-dom": "^19.2.1"
@@ -20,6 +18,7 @@
   "devDependencies": {
     "@types/node": "^22.14.0",
     "@vitejs/plugin-react": "^5.0.0",
+    "gh-pages": "^6.3.0",
     "typescript": "~5.8.2",
     "vite": "^6.4.1"
   }
