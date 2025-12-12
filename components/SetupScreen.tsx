@@ -54,7 +54,7 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
         <div className="inline-block p-4 rounded-full bg-blood-900/30 mb-4 border border-blood-600/50">
           <Sword className="w-12 h-12 text-blood-500" />
         </div>
-        <h1 className="text-5xl font-display font-bold text-transparent bg-clip-text bg-gradient-to-r from-white via-gray-200 to-gray-500 mb-2 uppercase tracking-tight drop-shadow-sm">
+        <h1 className="h-20 block place-content-center text-5xl font-display font-bold text-transparent bg-clip-text bg-gradient-to-r from-white via-gray-200 to-gray-500 mb-2 uppercase tracking-tight drop-shadow-sm">
           Hội Sát Thủ Phong Ảnh Sát
         </h1>
         <p className="text-blood-500 font-bold tracking-widest text-sm uppercase">
